@@ -52,6 +52,3 @@ If you find this helpful, please cite it here:
   url       = {https://doi.org/10.1007/s11042-025-21101-9},
   issn      = {1573-7721}
 }
-
-
-
