@@ -37,5 +37,21 @@ We evaluate ResMambaULite on three widely-used segmentation datasets:
 
 ![Results Comparison on Sunnybrook dataset](./assets/sunnybrook_result.png)
 
+## Citation
+If you find this helpful, please cite it here:
+
+```bibtex
+@article{nguyen2025resmamba,
+  title={ResMamba-ULite: A lightweight model for medical image segmentation with residual visual state space and multiple attention},
+  author={Nguyen, Dinh-Hieu and Hoang, Ngoc-Khai and Pham, Van-Truong and Tran, Thi-Thao},
+  journal={Multimedia Tools and Applications},
+  pages={1--33},
+  year={2025},
+  publisher={Springer},
+  doi       = {10.1007/s11042-025-21101-9},
+  url       = {https://doi.org/10.1007/s11042-025-21101-9},
+  issn      = {1573-7721}
+}
+
 
 
